@@ -29,9 +29,16 @@ I build secure backend systems, automate infrastructure, and develop AI-powered 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,flask,docker,aws,linux,git,mysql&perline=10" />
-<br/>
+<br/><br/>
 
-`WebRTC` · `DNS Architecture` · `TCP/IP` · `REST APIs` · `WebSockets` · `Burp Suite` · `Metasploit`
+<!-- Row 2: Tools without skillicons support -->
+<img src="https://img.shields.io/badge/WebRTC-161b22?style=for-the-badge&logo=webrtc&logoColor=08f7fe" />
+<img src="https://img.shields.io/badge/REST%20APIs-161b22?style=for-the-badge&logo=fastapi&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/WebSockets-161b22?style=for-the-badge&logo=socketdotio&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/TCP%2FIP-161b22?style=for-the-badge&logo=cisco&logoColor=08f7fe" />
+<img src="https://img.shields.io/badge/DNS%20Architecture-161b22?style=for-the-badge&logo=cloudflare&logoColor=f48120" />
+<img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=ff6633" />
+<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=2596be" />
 
 </div>
 
