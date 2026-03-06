@@ -46,14 +46,14 @@ I build secure backend systems, automate infrastructure, and develop AI-powered 
 
 ## 🔭 Featured Projects
 
-| | Project | Description | Tech |
-|:--:|:--------|:------------|:-----|
-| ⚡ | **[superbrain](https://github.com/sidinsearch/superbrain)** `★26` | AI-powered second brain — save & recall content from Instagram, YouTube & Web | `Python` `AI` |
-| 🖥️ | **[xDNS](https://github.com/sidinsearch/xDNS)** `★2` | Private DNS server with control panel, query logging & domain filtering | `Python` `Flask` `SQL` |
-| 🔒 | **[VaultX](https://github.com/sidinsearch/VaultX)** | Stealth file storage disguised as popular web platforms | `HTML` `Security` |
-| ⌨️ | **[WinXploit](https://github.com/sidinsearch/WinXploit)** `★5` | Telegram bot for remote Windows control — screenshots, webcam, sysinfo | `Python` `Telegram` |
-| 🔗 | **[P2PxRelay](https://github.com/sidinsearch/P2PxRelay)** `★2` | Serverless WebRTC file sharing — zero server storage, direct P2P | `WebRTC` `JavaScript` |
-| 👁️ | **[OpticView](https://github.com/sidinsearch/OpticView)** | AI vision assistant for the visually impaired using LLaMA-4 | `Java` `AI` |
+| | Project | Description | Tech | Stars |
+|:--:|:--------|:------------|:-----|:-----:|
+| ⚡ | **[superbrain](https://github.com/sidinsearch/superbrain)** | AI-powered second brain — save & recall content from Instagram, YouTube & Web | `Python` `AI` | [![Stars](https://img.shields.io/github/stars/sidinsearch/superbrain?style=flat-square&logo=none&labelColor=161b22&color=161b22&label=⭐)](https://github.com/sidinsearch/superbrain/stargazers) |
+| 🖥️ | **[xDNS](https://github.com/sidinsearch/xDNS)** | Private DNS server with control panel, query logging & domain filtering | `Python` `Flask` `SQL` | [![Stars](https://img.shields.io/github/stars/sidinsearch/xDNS?style=flat-square&logo=none&labelColor=161b22&color=161b22&label=⭐)](https://github.com/sidinsearch/xDNS/stargazers) |
+| 🔒 | **[VaultX](https://github.com/sidinsearch/VaultX)** | Stealth file storage disguised as popular web platforms | `HTML` `Security` | [![Stars](https://img.shields.io/github/stars/sidinsearch/VaultX?style=flat-square&logo=none&labelColor=161b22&color=161b22&label=⭐)](https://github.com/sidinsearch/VaultX/stargazers) |
+| ⌨️ | **[WinXploit](https://github.com/sidinsearch/WinXploit)** | Telegram bot for remote Windows control — screenshots, webcam, sysinfo | `Python` `Telegram` | [![Stars](https://img.shields.io/github/stars/sidinsearch/WinXploit?style=flat-square&logo=none&labelColor=161b22&color=161b22&label=⭐)](https://github.com/sidinsearch/WinXploit/stargazers) |
+| 🔗 | **[P2PxRelay](https://github.com/sidinsearch/P2PxRelay)** | Serverless WebRTC file sharing — zero server storage, direct P2P | `WebRTC` `JavaScript` | [![Stars](https://img.shields.io/github/stars/sidinsearch/P2PxRelay?style=flat-square&logo=none&labelColor=161b22&color=161b22&label=⭐)](https://github.com/sidinsearch/P2PxRelay/stargazers) |
+| 👁️ | **[OpticView](https://github.com/sidinsearch/OpticView)** | AI vision assistant for the visually impaired using LLaMA-4 | `Java` `AI` | [![Stars](https://img.shields.io/github/stars/sidinsearch/OpticView?style=flat-square&logo=none&labelColor=161b22&color=161b22&label=⭐)](https://github.com/sidinsearch/OpticView/stargazers) |
 
 <br/>
 
